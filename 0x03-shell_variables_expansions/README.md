@@ -1,3 +1,1 @@
-#!/bin/bash
-shell file initialisation
-
+shell intialisation
